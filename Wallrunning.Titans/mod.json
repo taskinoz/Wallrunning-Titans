@@ -1,0 +1,7 @@
+{
+	"Name": "Wallrunning Titans",
+	"Description": "Titans can wallrun",
+	"LoadPriority": 0,
+	"RequiredOnClient": false,
+	"Version": "1.0",
+}
