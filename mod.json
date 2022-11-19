@@ -3,5 +3,5 @@
 	"Description": "Titans can wallrun",
 	"LoadPriority": 0,
 	"RequiredOnClient": false,
-	"Version": "1.0",
+	"Version": "1.0.0"
 }
